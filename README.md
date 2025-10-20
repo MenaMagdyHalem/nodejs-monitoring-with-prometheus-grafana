@@ -119,6 +119,7 @@ chmod +x send.sh
 * ✅ Check Slack → Alert message received
 * ✅ Open Grafana → visualize metrics and dashboard panels
 
+---
 
 👨‍💻 Author
 
